@@ -33,6 +33,13 @@ Apasionado por la arquitectura de software y el desarrollo de aplicaciones web e
   * Stack: HTML5, CSS3, JavaScript (Vanilla).
   * *Estado: Proyecto estable - Demuestra dominio de fundamentos web y diseño responsivo.*
 
+## 📊 Estadísticas de GitHub
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=LuisAntonioFeliz&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estadísticas de Luis" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisAntonioFeliz&layout=compact&theme=radical" alt="Lenguajes de Luis" />
+</p>
+
 ## 📫 Contáctame
 * **LinkedIn**: [https://www.linkedin.com/in/luis-antonio-feliz/]
 * **Email**: [luisfelizm07@gmail.com]
