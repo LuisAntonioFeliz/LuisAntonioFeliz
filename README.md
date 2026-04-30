@@ -10,7 +10,7 @@
 Apasionado por la arquitectura de software y el desarrollo de aplicaciones web eficientes. Actualmente enfocado en potenciar mis habilidades en **Frontend** y expandiendo mis capacidades en **Backend** con Python.
 
 ## 🛠 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=angular,react,js,ts,python,django,mysql,postgres,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,react,js,ts,python,django,mysql,git)](https://skillicons.dev)
 
 * **Frontend:** Angular, React, TypeScript, JavaScript
 * **Backend:** Python, MySQL
