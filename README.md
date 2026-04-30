@@ -36,7 +36,7 @@ Apasionado por la arquitectura de software y el desarrollo de aplicaciones web e
 ## 📊 Estadísticas de GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuisAntonioFeliz&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estadísticas de Luis" />
+  <img src="https://github-readme-stats.vercel.app/api?username=LuisAntonioFeliz&show_icons=true&theme=radical&include_all_commits=true" alt="Estadísticas de Luis" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisAntonioFeliz&layout=compact&theme=radical&exclude_repo=Gimnasio,inicial,diaNacimiento,menu-calculadora,lista,fibonacci,Numeros-impares,Numeros-Primo,Finantech,Formula,Multiplicacion,Division,pruebin,Recetario,amortizador,inventario,tareatarjeta," alt="Top Languages" />
 </p>
 
