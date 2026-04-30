@@ -1,7 +1,7 @@
 # ¡Hola! Soy Luis Feliz 👋
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=TU_USUARIO_GITHUB&label=Visitas&color=0e75b6&style=flat" alt="tu_usuario" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=200&section=header&text=Luis%20Feliz&fontSize=70&animation=fadeIn&fontColor=ffffff" />
 </p>
 
 ## 🚀 Sobre mí
