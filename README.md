@@ -5,7 +5,7 @@
 </p>
 
 ## 🚀 Sobre mí
-**Computer Systems Engineer | Web Developer | Angular & React | Python**
+**Computer Systems Engineer | Fullstack Developer | TypeScript | JavaScript | Angular | React | Python | Django | FastAPI**
 
 Apasionado por la arquitectura de software y el desarrollo de aplicaciones web eficientes. Actualmente enfocado en potenciar mis habilidades en **Frontend** y expandiendo mis capacidades en **Backend** con Python.
 
