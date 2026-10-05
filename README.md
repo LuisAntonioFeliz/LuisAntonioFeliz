@@ -7,7 +7,7 @@
 ## 🚀 Sobre mí
 **Computer Systems Engineer | Fullstack Developer | TypeScript | JavaScript | Angular | React | Python | Django | FastAPI**
 
-Apasionado por la arquitectura de software y el desarrollo de aplicaciones web eficientes. Actualmente enfocado en potenciar mis habilidades en **Frontend** y expandiendo mis capacidades en **Backend** con Python.
+Desarrollador Fullstack bilingüe (inglés/español) e Ingeniero de Sistemas enfocado en el rendimiento, la optimización y la creación de soluciones web escalables. Sólida base técnica en desarrollo frontend y backend, con mentalidad de crecimiento, proactividad y alta capacidad para resolver desafíos técnicos complejos utilizando tecnologías modernas.
 
 ## 🛠 Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=angular,react,js,ts,python,django,mysql,git)](https://skillicons.dev)
